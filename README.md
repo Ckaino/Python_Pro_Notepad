@@ -7,11 +7,11 @@ A fully featured, lightweight desktop Notepad application built entirely in Pyth
 
 ## Key Features
 
-### 🛠️ Core Functional Toolkit
-*   **File Management Pipeline:** Seamlessly execute standard workspace operations including **New File**, native directories **Open File...**, and data storage **Save As...**.
-*   **Interactive Clipboard Automation:** Complete system mapping for sequential file manipulation actions like **Undo, Redo, Cut, Copy, and Paste** macros.
+###  Core Functional Toolkit
+*   File Management Pipeline: Seamlessly execute standard workspace operations including **New File**, native directories **Open File...**, and data storage **Save As...**.
+* **Interactive Clipboard Automation:** Complete system mapping for sequential file manipulation actions like **Undo, Redo, Cut, Copy, and Paste** macros.
 
-### 📊 Advanced Add-ons
+###  Advanced Add-ons
 *   **Find & Replace Parsing Engine:** An interactive dialog popup module enabling users to scan target string terms across the text block and execute instant global mutations.
 *   **Font Customization Selectors:** Integrated toolbar dropdown elements supporting dynamic font family swaps (e.g., Arial, Consolas, Courier) and sequential font-size scale adjustments.
 *   **Dynamic Metric Status Bar:** Real-time calculation loops that automatically process and display accurate text data attributes (**Word Count** and **Character Density**) as you type.
